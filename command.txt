@@ -1,6 +1,6 @@
 # one time each project to start git
 git init
-# every time to add
+# every time have to use
 git add .
 git commit -m "first commit"
 git branch -M main
